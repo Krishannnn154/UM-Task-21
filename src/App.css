@@ -1,0 +1,23 @@
+body {
+  background-color: #000;
+  margin: 50px;
+
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+}
+
+h1 {
+  color: blueviolet;
+  text-align: center;
+  margin: 70px;
+}
+
+main {
+  /* border: 2px solid red; */
+  /* width: 85%; */
+  display: flex;
+  justify-content: center;
+  gap: 5%;
+  flex-wrap: wrap;
+}
